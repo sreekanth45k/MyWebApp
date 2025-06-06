@@ -1,3 +1,6 @@
 [submodule "touch.txt"]
 	path = touch.txt
 	url = https://github.com/sreekanth45k/CompanyUILib.git
+[submodule "Engine/Physics"]
+	path = Engine/Physics
+	url = https://github.com/sreekanth45k/CompanyUILib.git
